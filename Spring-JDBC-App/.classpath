@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aop-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aop-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aop-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aspects-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aspects-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-aspects-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-beans-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-beans-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-beans-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-support-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-support-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-context-support-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-core-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-core-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-core-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-expression-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-expression-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-expression-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-tomcat-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-tomcat-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-instrument-tomcat-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jdbc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jdbc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jdbc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jms-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jms-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-jms-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-messaging-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-messaging-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-messaging-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-orm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-orm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-orm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-oxm-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-oxm-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-oxm-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-test-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-test-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-test-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-tx-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-tx-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-tx-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-web-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-web-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-web-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-portlet-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-portlet-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-webmvc-portlet-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-websocket-4.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-websocket-4.1.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/lib/Spring JDBC/libs/spring-websocket-4.1.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/lib/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
